@@ -1,0 +1,4 @@
+Witaj!
+To jest plik readme utworzony na potrzeby kolokwium.
+Obecnie jest tutaj prosty skrypt w jezyku C.
+A to 4 linia pliku readme.
